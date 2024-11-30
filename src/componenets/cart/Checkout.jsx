@@ -1,6 +1,6 @@
 
 import { useRef, useState } from 'react';
-import classes from './Checkout.module.css';
+import classes from './CheckOut.module.css';
 const isEmpty = value => value.trim()=== '';
 const isFiveChar = value => value.trim().length === 5;
 
